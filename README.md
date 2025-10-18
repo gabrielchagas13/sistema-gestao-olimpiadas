@@ -43,29 +43,21 @@ Com a chegada das Olimpíadas, um novo sistema de gestão é necessário para co
 
 ## Imagens e Modelagens
 
-As imagens e arquivos de modelagem devem estar no repositório conforme a estrutura abaixo. Onde houver arquivos faltantes, existem notas indicando placeholders.
+As imagens e arquivos de modelagem devem estar no repositório conforme a estrutura abaixo. 
 
 - imagens/
-  - diagrama-de-caso-de-uso.png  (presente)
-  - diagrama-de-classes.png     (falta - placeholder recomendada)
-  - diagrama-de-pacotes.png     (falta)
-  - diagrama-de-componentes.png (falta)
-  - diagrama-de-implantacao.png (falta)
+  - diagrama-de-caso-de-uso.png  
+  - diagrama-de-classes.png     
+  - diagrama-de-pacotes.png     
+  - diagrama-de-componentes.png 
+  - diagrama-de-implantacao.png 
 
 - modelagens/
-  - diagrama-de-caso-de-uso.drawio (presente)
-  - diagrama-de-classes.drawio    (falta)
-  - diagrama-de-pacotes.drawio    (falta)
-  - diagrama-de-componentes.drawio(falta)
-  - diagrama-de-implantacao.drawio(falta)
-
-### Exibição de imagens
-
-Diagrama de Caso de Uso (exibido a partir do repositório):
-
-<img width="500px" height="500px" src="https://github.com/seunome/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-caso-de-uso.png"/>
-
-> Observação: o link acima é um exemplo de como exibir imagens hospedadas no GitHub. Substitua "seunome" pelo seu usuário/organização no GitHub se for publicar o repositório.
+  - diagrama-de-caso-de-uso.drawio 
+  - diagrama-de-classes.drawio    
+  - diagrama-de-pacotes.drawio    
+  - diagrama-de-componentes.drawio
+  - diagrama-de-implantacao.drawio
 
 ## Conteúdo do repositório
 
@@ -86,12 +78,3 @@ Arquivos recomendados a acrescentar (se ainda não existirem):
 - modelagens/diagrama-de-componentes.drawio
 - modelagens/diagrama-de-implantacao.drawio
 
-## Como publicar no GitHub
-
-1. Crie um repositório no GitHub (por exemplo: github.com/seunome/sistema-gestao-olimpiadas).
-2. Substitua o link das imagens no README pelo caminho com seu usuário: https://github.com/seunome/sistema-gestao-olimpiadas/blob/main/imagens/...
-3. Faça commit e push dos arquivos locais para o repositório remoto.
-
-## Observações finais
-
-Se quiser, posso também criar arquivos placeholder para os diagramas que estão faltando (imagens PNG e arquivos .drawio). Quer que eu crie esses placeholders agora?
