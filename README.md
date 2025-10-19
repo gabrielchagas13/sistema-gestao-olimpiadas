@@ -63,7 +63,7 @@ Imagens (visualização):
 
 ![Diagrama de Caso de Uso](imagens/diagrama-de-caso-de-uso.png)
 
-![Diagrama de Classes](imagens/diagrama-de-classe-e-pacotes.png)
+![Diagrama de Classes](imagens/diagrama-de-classe-e-pacote.png)
 
 ![Diagrama de Componentes](imagens/diagrama-de-componentes.png)
 
