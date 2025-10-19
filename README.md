@@ -67,7 +67,7 @@ Lista dos arquivos presentes nesta cópia do repositório (local):
 - imagens/diagrama-de-caso-de-uso.png
 - modelagens/diagrama-de-caso-de-uso.drawio
 
-Arquivos recomendados a acrescentar (se ainda não existirem):
+Caminho dos arquivos
 
 - imagens/diagrama-de-classes.png
 - imagens/diagrama-de-pacotes.png
