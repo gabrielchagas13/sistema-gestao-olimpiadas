@@ -63,13 +63,11 @@ Imagens (visualização):
 
 ![Diagrama de Caso de Uso](imagens/diagrama-de-caso-de-uso.png)
 
-![Diagrama de Classes](imagens/diagrama-de-classes.png)
-
-![Diagrama de Pacotes](imagens/diagrama-de-pacotes.png)
+![Diagrama de Classes](imagens/diagrama-de-classes-e-pacotes.png)
 
 ![Diagrama de Componentes](imagens/diagrama-de-componentes.png)
 
-![Diagrama de Implantação](imagens/diagrama-de-implantacao.png)
+![Diagrama de Implantação](imagens/diagrama-de-implantação.png)
 
 Arquivos de modelagem (links para edição/backup):
 
