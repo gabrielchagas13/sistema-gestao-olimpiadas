@@ -9,15 +9,15 @@ Com a chegada das Olimpíadas, um novo sistema de gestão é necessário para co
 ## Regras de Negócio
 
 1. Cadastro de competições:
-   - O sistema deve permitir o cadastro de competições, que incluem o nome da modalidade, data, horário, local e lista de atletas inscritos.
+  - O sistema deve permitir o cadastro de competições, que incluem o nome da modalidade, data, horário, local e lista de atletas inscritos.
 2. Inscrição de atletas:
-   - Atletas de diferentes países devem se inscrever em competições específicas. Cada atleta pode participar de várias competições, mas só pode representar um país em cada modalidade.
+  - Atletas de diferentes países devem se inscrever em competições específicas. Cada atleta pode participar de várias competições, mas só pode representar um país em cada modalidade.
 3. Alocação de locais:
-   - Os locais para as competições devem ser alocados de forma a evitar conflitos de horário. Um local só pode abrigar uma competição por vez.
+  - Os locais para as competições devem ser alocados de forma a evitar conflitos de horário. Um local só pode abrigar uma competição por vez.
 4. Controle de resultados:
-   - Após a realização das competições, os resultados devem ser registrados, determinando o atleta vencedor e os classificados em segundo e terceiro lugares.
+  - Após a realização das competições, os resultados devem ser registrados, determinando o atleta vencedor e os classificados em segundo e terceiro lugares.
 5. Relatórios de medalhas:
-   - O sistema deve gerar relatórios de medalhas, mostrando o desempenho de cada país com base nas medalhas de ouro, prata e bronze conquistadas.
+  - O sistema deve gerar relatórios de medalhas, mostrando o desempenho de cada país com base nas medalhas de ouro, prata e bronze conquistadas.
 
 ## Histórias de Usuário
 
@@ -43,7 +43,7 @@ Com a chegada das Olimpíadas, um novo sistema de gestão é necessário para co
 
 ## Imagens e Modelagens
 
-As imagens e arquivos de modelagem devem estar no repositório conforme a estrutura abaixo. 
+As imagens e arquivos de modelagem devem estar no repositório conforme a estrutura abaixo. Abaixo as imagens são exibidas diretamente para visualização no README.
 
 - imagens/
   - diagrama-de-caso-de-uso.png  
@@ -58,6 +58,26 @@ As imagens e arquivos de modelagem devem estar no repositório conforme a estrut
   - diagrama-de-pacotes.drawio    
   - diagrama-de-componentes.drawio
   - diagrama-de-implantacao.drawio
+
+Imagens (visualização):
+
+![Diagrama de Caso de Uso](imagens/diagrama-de-caso-de-uso.png)
+
+![Diagrama de Classes](imagens/diagrama-de-classes.png)
+
+![Diagrama de Pacotes](imagens/diagrama-de-pacotes.png)
+
+![Diagrama de Componentes](imagens/diagrama-de-componentes.png)
+
+![Diagrama de Implantação](imagens/diagrama-de-implantacao.png)
+
+Arquivos de modelagem (links para edição/backup):
+
+- modelagens/diagrama-de-caso-de-uso.drawio
+- modelagens/diagrama-de-classes.drawio
+- modelagens/diagrama-de-pacotes.drawio
+- modelagens/diagrama-de-componentes.drawio
+- modelagens/diagrama-de-implantacao.drawio
 
 ## Conteúdo do repositório
 
@@ -77,4 +97,3 @@ Caminho dos arquivos
 - modelagens/diagrama-de-pacotes.drawio
 - modelagens/diagrama-de-componentes.drawio
 - modelagens/diagrama-de-implantacao.drawio
-
