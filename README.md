@@ -61,11 +61,19 @@ As imagens e arquivos de modelagem devem estar no repositório conforme a estrut
 
 Imagens (visualização):
 
+Diagrama de Caso de Uso:
+
 ![Diagrama de Caso de Uso](imagens/diagrama-de-caso-de-uso.png)
+
+Diagrama de Classes e Pacotes:
 
 ![Diagrama de Classes](imagens/diagrama-de-classe-e-pacote.png)
 
+Diagrama de Componentes:
+
 ![Diagrama de Componentes](imagens/diagrama-de-componentes.png)
+
+Diagrama de Implementação:
 
 ![Diagrama de Implantação](imagens/diagrama-de-implantação.png)
 
